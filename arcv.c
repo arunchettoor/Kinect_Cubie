@@ -1,7 +1,8 @@
 /*
 author 		: Arunkrishnan Chettoor
-Platform 	: Cubieboard 2/cubian OS
-Description	: The code will detect 3 vertial points from the depth image pixel and if the points is <= 500mm destance it provides 
+Platform 	: Cubieboard 2/cubian 
+Company		: Steadystate Technologies Pvt Ltd.
+Description	: The code will detect 3 horizontal axis points from the depth image pixel and if the points is <= 500mm destance it provides 
 		feedback to the corresponding GPIO pins.
 */
 

@@ -11,7 +11,7 @@ Kinect is an electronic device which briefly have :<br>
 
 
 <br>
-[Steadystate Technologies](http://www.steadystate.in) developed code to run the kinect device on Cubieboard2.<br>
+Developed code to run the kinect device on Cubieboard2.<br>
 We developed a code which detects obstacles and make a feedback to the port pins.<br>
 <br>
 Libraries/Installation Links:

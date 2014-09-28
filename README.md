@@ -12,7 +12,7 @@ Kinect is an electronic device which briefly have :<br>
 
 <br>
 Developed code to run the kinect device on Cubieboard2.<br>
-We developed a code which detects obstacles and make a feedback to the port pins.<br>
+Developed a code which detects obstacles and make a feedback to the port pins.<br>
 <br>
 Libraries/Installation Links:
 ---------------

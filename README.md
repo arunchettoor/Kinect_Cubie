@@ -1,4 +1,4 @@
-Kinect_SST
+Kinect_Cubie
 ==========
 
 Kinect is an electronic device which briefly have :<br>
